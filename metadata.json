@@ -1,0 +1,6 @@
+{
+  "name": "KetikPro Coach - Pelatih Mengetik 10 Jari",
+  "description": "Aplikasi latihan mengetik 10 jari cerdas dengan analisis AI dari KetikPro Coach untuk mengasah akurasi jari, posisi home row, dan kecepatan WPM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
